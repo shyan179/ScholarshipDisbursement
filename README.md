@@ -3,7 +3,7 @@
 This is a proof-of-concept smart contracts built using solidity to show the automation on study loan/scholarship disbursement using blockchain. The smart contract is separated into 3 parts, student, loan/scholarship provider and university staff. A decentralised web application (dApp) has been created using ethers.js to connect with the smart contracts and metamask. The dApp allows higher education staff, loan/scholarship institutions and students to interact with the private Ethereum network and transfer the money disbursement automatically once the disbursement requirements are met.
 
 ### Wallet used
-We are using web wallet - Metamask for this project. For this particular project version, we are using Ganache for the deployment and testing. There are 2 more versions using different testnets in other repository folders (Rinkeby and Goerli).
+I am using web wallet - Metamask for this project. For this particular project version, I am using Ganache for the deployment and testing. There are 2 more versions using different testnets in other repository folders (Rinkeby and Goerli).
 
 For more information
 1. Metamask refer to this link: https://metamask.io/
@@ -30,7 +30,7 @@ There are 3 smart contracts on this project and all of them are deployed using g
 ##### Visual Studio Code
 I use Visual Studio Code to create and edit my project. You need also need Visual Studio Code to run the local web server. You can find the latest version here: https://code.visualstudio.com/
 
-Then download all the files in this repository and unzip any zip file and put them into a single folder in your local drive
+Then download all the files in this repository and put them into a single folder in your local drive. Remember to unzip any zip file.
 
 Open the folder using visual studio code.
 
